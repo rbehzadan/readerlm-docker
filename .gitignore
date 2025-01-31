@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# models
+models/
+
+# By Reza
+build/
+.archive/
+.vagrant/
+.env
+*_[0-9]
+*_[0-9][0-9]
+*_????-??-??
+*.zip
