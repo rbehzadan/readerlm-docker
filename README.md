@@ -7,7 +7,6 @@ This project provides a **Dockerized API service** for converting HTML to Markdo
 
 ## 🚀 Features
 - **Runs ReaderLM-v2 in a lightweight container**
-- **Multi-architecture support** (AMD64 & ARM64)
 - **Compatible with OpenAI API format**
 - **No dependencies needed—just `docker run`!**
 - **Optimized for CPU-based inference**
