@@ -1,6 +1,6 @@
 # ReaderLM Markdown Converter (Dockerized)
 
-![Docker Build](https://github.com/rbehzadan/readerlm/actions/workflows/docker-build.yml/badge.svg)
+![Docker Build](https://github.com/rbehzadan/readerlm-docker/actions/workflows/build-and-push-native.yaml/badge.svg)
 [![Docker Hub](https://img.shields.io/docker/pulls/rbehzadan/readerlm)](https://hub.docker.com/r/rbehzadan/readerlm)
 
 This project provides a **Dockerized API service** for converting HTML to Markdown using **ReaderLM-v2**, a specialized LLM for document processing. It leverages `llama.cpp` to efficiently run the model and serve responses via an **OpenAI-compatible API**.
